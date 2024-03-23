@@ -1,6 +1,4 @@
 <script setup lang="js">
-// import Versions from './components/Versions.vue'
-// import Teste from './components/Teste.vue'
 import Forms from './components/Form.vue'
 import List from './components/List.vue'
 
@@ -14,6 +12,7 @@ import List from './components/List.vue'
   <!-- <img alt="logo" class="logo" src="./assets/electron.svg" /> -->
   <!-- <Teste /> -->
   <Forms />
+  <hr />
   <List />
 
   <!-- <div>

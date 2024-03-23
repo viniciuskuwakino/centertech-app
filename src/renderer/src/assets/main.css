@@ -143,6 +143,24 @@ code {
   }
 }
 
+.mt-zero {
+  margin-top: -5px;
+  align-items: center;
+}
+
+.buttons-form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.buttons-form-group {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
 @media (max-width: 720px) {
   .text {
     font-size: 20px;
